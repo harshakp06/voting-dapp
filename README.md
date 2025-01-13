@@ -1,4 +1,6 @@
-# voting-dapp
+# Voting Dapp
+
+This project follows th Solana Bootcamp from YouTube
 
 ## Getting Started
 
@@ -15,8 +17,8 @@
 #### Clone the repo
 
 ```shell
-git clone <repo-url>
-cd <repo-name>
+git clone https://github.com/harshakp06/voting-dapp.git
+cd voting-dapp/
 ```
 
 #### Install Dependencies
@@ -50,6 +52,7 @@ You will manually need to update the constant in `anchor/lib/counter-exports.ts`
 ```shell
 pnpm anchor keys sync
 ```
+
 
 #### Build the program:
 
